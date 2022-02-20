@@ -1,0 +1,25 @@
+body {
+  /* border: 10px solid lawngreen; */
+  background-color: blueviolet;
+}
+
+#unique {
+  color: yellow;
+  background-color: gray;
+}
+
+#circle {
+  border: 2px solid red;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+#boxmodel {
+  background-color: salmon;
+  height: 300px;
+  width: 200px;
+  margin: 20px;
+  padding: 50px;
+  border: 20px;
+}
